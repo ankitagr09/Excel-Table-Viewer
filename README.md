@@ -28,7 +28,7 @@ This program uses the `tkinter` library to create a GUI window where you can sel
    ```
 3. Run the Python script:
    ```
-   python excel_table_viewer_gui.py
+   python excelread.py
    ```
 4. Click the "Open File" button to select an Excel file (.xlsx) you want to view.
 5. The GUI window will display the contents of the file in a table format.
